@@ -1,0 +1,38 @@
+
+Windows IP Configuration
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 506609
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : player.kmpmedia.net
+
+
+    app.msi.com
+    ----------------------------------------
+    Record Name . . . . . : app.msi.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 129
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 46.244.5.186
+
+
+    player.kmpmedia.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    player.kmpmedia.net
+    ----------------------------------------
+    Record Name . . . . . : player.kmpmedia.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 506609
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+

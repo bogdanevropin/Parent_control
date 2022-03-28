@@ -1,0 +1,1 @@
+ipconfig /displaydns > C:\timer\2022-02-04-13-37-42.398436_dns.txt
