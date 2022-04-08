@@ -2,6 +2,11 @@ import os
 
 
 def install_by_cmd(module_name, t_or_f):
+	"""
+	Installing something by cmd
+	:param module_name:
+	:param t_or_f:
+	"""
 	# if t_or_f is True installs
 	# creating (in any case) cmd file for manual installing
 	current_directory = os.getcwd()

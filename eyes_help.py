@@ -1,5 +1,6 @@
 from install_smth import install_by_cmd
 
+
 try:
 	# for notifications
 	import pyautogui
@@ -8,6 +9,10 @@ except ModuleNotFoundError:
 
 
 def eye_help_time(full_training):
+	"""
+	Alerts you if you uses PC too long without rest fpr your eyes
+	:param full_training:
+	"""
 	pyautogui.alert("Look in window for 1 min, close eyes")
 	if full_training:
 		pyautogui.alert("Make full training for eyes")
