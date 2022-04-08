@@ -1,0 +1,8 @@
+ play.google.com
+ pypi.org
+ schemastore.org
+ 1.0.0.127.in-addr.arpa.
+ app.msi.com
+ clientservices.googleapis.com
+ player.kmpmedia.net
+ www.google.com

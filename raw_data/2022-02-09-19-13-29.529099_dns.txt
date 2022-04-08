@@ -1,0 +1,112 @@
+
+Windows IP Configuration
+
+    play.google.com
+    ----------------------------------------
+    Record Name . . . . . : play.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 140
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.201.206
+
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 586888
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : player.kmpmedia.net
+
+
+    clientservices.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : clientservices.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 104
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.180.195
+
+
+    www.google.com
+    ----------------------------------------
+    Record Name . . . . . : www.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 95
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.19.100
+
+
+    pypi.org
+    ----------------------------------------
+    Record Name . . . . . : pypi.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 49874
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.64.223
+
+
+    Record Name . . . . . : pypi.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 49874
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.128.223
+
+
+    Record Name . . . . . : pypi.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 49874
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.192.223
+
+
+    Record Name . . . . . : pypi.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 49874
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.0.223
+
+
+    app.msi.com
+    ----------------------------------------
+    Record Name . . . . . : app.msi.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 142
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 46.244.5.186
+
+
+    schemastore.org
+    ----------------------------------------
+    Record Name . . . . . : schemastore.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1513
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.42.128.105
+
+
+    player.kmpmedia.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    player.kmpmedia.net
+    ----------------------------------------
+    Record Name . . . . . : player.kmpmedia.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 586888
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+

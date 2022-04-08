@@ -1,0 +1,2 @@
+chrome.exe: 10
+Taskmgr.exe: 100

@@ -1,0 +1,2 @@
+    Record Name . . . . . : player.kmpmedia.net
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
